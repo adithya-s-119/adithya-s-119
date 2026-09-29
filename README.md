@@ -118,13 +118,13 @@ A Windows desktop application for converting PDFs between light and dark colour 
 ## What I'm Exploring
 
 ```text
-Embedded Systems       ████████████████████
-FPGA & Digital Design ██████████████████░░
+Embedded Systems         ████████████████████
+FPGA & Digital Design   ██████████████████░░
 DSP & Signal Processing ██████████████████░░
-Audio & Acoustics     █████████████████░░░
-PCB & Hardware Design ██████████████████░░
-Embedded Networking   ████████████████░░░░
-Software-Hardware     ██████████████████░░
+Audio & Acoustics       █████████████████░░░
+PCB & Hardware Design   ██████████████████░░
+Embedded Networking     ████████████████░░░░
+Software-Hardware       ██████████████████░░
 ```
 
 ---
@@ -140,16 +140,6 @@ Software-Hardware     ██████████████████░�
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=adithya-s-119&theme=github-dark-blue&hide_border=true" alt="GitHub streak">
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adithya-s-119&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph">
 
 </div>
 
