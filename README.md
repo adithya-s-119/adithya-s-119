@@ -1,127 +1,176 @@
+<div align="center">
+
 # Hi, I'm Adithya S 👋
 
-### Electronics & Communication Engineer | Embedded Systems | Hardware & Software
+### Electronics & Communication Engineer · Embedded Systems · Hardware · Software
 
-I build at the intersection of **electronics and software** — from embedded hardware and communication systems to desktop and mobile applications.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+at+the+intersection+of+hardware+%26+software;Embedded+Systems+%7C+FPGA+%7C+DSP+%7C+Audio;Designing%2C+building%2C+testing%2C+improving." alt="Typing animation" />
 
-I'm interested in designing practical systems, understanding how they work at a low level, and turning ideas into working hardware and software.
+<br>
+
+<a href="https://github.com/adithya-s-119">
+  <img src="https://komarev.com/ghpvc/?username=adithya-s-119&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views">
+</a>
+
+</div>
 
 ---
 
 ## About Me
 
-- Electronics & Communication Engineer
-- Interested in **Embedded Systems, Electronics, FPGA, DSP and Software**
-- Enjoy working with microcontrollers, digital systems and hardware interfaces
-- Interested in **audio, acoustics, signal processing and communication systems**
-- Build projects spanning **firmware, electronics, PCB design and application software**
-- Always experimenting with new technologies and learning by building
+I'm an **Electronics & Communication Engineer** who enjoys building things across the boundary between **hardware and software**.
+
+My work and interests range from embedded systems and FPGA design to digital signal processing, audio, acoustics, networking, PCB design and application software.
+
+> **I like understanding systems from the signal level all the way to the user interface.**
 
 ---
 
 ## Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🏠 HomeCore
 
 An Android home-control application for managing **ESP-based relay modules and connected devices** over a local network.
 
-**Highlights**
-- ESP module and device management
+**What it does**
+- ESP module & device management
 - Relay configuration and control
-- HTTP-based communication
+- HTTP communication
 - Relay state synchronisation
-- Local JSON-based persistence
-- Grid-based device control interface
-- Light and dark appearance support
+- Local JSON persistence
+- Grid-based device interface
+- Light & dark appearance support
 
-**Technologies:** `Kotlin` `Android` `HTTP` `JSON` `ESP32`
+**Built with**
 
-[View Repository →](https://github.com/adithya-s-119/HomeCore)
+`Kotlin` `Android` `HTTP` `JSON` `ESP32`
 
----
+<br>
+
+<a href="https://github.com/adithya-s-119/HomeCore">
+  <img src="https://img.shields.io/badge/View_Repository-21262D?style=for-the-badge&logo=github&logoColor=white" alt="View HomeCore">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 📄 PDF Color Inverter
 
 A Windows desktop application for converting PDFs between light and dark colour schemes, with **batch processing and English/Malayalam OCR**.
 
-**Highlights**
+**What it does**
 - PDF colour inversion
 - Batch processing
-- Drag-and-drop support
-- Live page preview
+- Drag & drop
+- Live preview
 - Adjustable rendering quality
 - English + Malayalam OCR
-- Searchable and selectable OCR text
-- Bundled OCR runtime and Malayalam font
+- Searchable/selectable OCR text
 - Standalone Windows executable
-- Light, dark and system appearance modes
 
-**Technologies:** `Python` `CustomTkinter` `Tesseract OCR` `PyInstaller`
+**Built with**
 
-[View Repository →](https://github.com/adithya-s-119/PDF-Color-Inverter)
+`Python` `CustomTkinter` `Tesseract OCR` `PyInstaller`
+
+<br>
+
+<a href="https://github.com/adithya-s-119/PDF-Color-Inverter">
+  <img src="https://img.shields.io/badge/View_Repository-21262D?style=for-the-badge&logo=github&logoColor=white" alt="View PDF Color Inverter">
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Technical Interests
+## Tech Stack
+
+<div align="center">
 
 ### Embedded & Hardware
 
-`ESP32` `Arduino` `Teensy` `AVR` `FPGA` `Zynq`
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,c,python&perline=5" alt="Embedded technologies">
 
-`I²C` `SPI` `I²S` `UART` `Ethernet`
+<br><br>
 
-### Electronics
+### FPGA · DSP · Electronics
 
-`Analog Electronics` `Digital Electronics` `Audio Electronics`
+<img src="https://skillicons.dev/icons?i=matlab,vscode,git,github&perline=4" alt="Development tools">
 
-`PCB Design` `Power Electronics` `Mixed-Signal Design`
+<br><br>
 
-### Signal Processing
+`ESP32` · `FPGA` · `Zynq` · `Verilog` · `VHDL` · `I²C` · `SPI` · `I²S` · `UART` · `Ethernet`
 
-`DSP` `FFT` `DFT` `Digital Filters` `Beamforming`
+<br>
 
-`Acoustics` `Communication Systems`
+`DSP` · `FFT` · `DFT` · `Digital Filters` · `Beamforming` · `Acoustics` · `PCB Design` · `Audio Electronics`
 
-### Programming
-
-`C` `C++` `Python` `MATLAB` `Verilog` `VHDL` `Kotlin` `Java`
-
-### Tools
-
-`Vivado` `Vitis` `KiCad` `MATLAB` `Git` `GitHub`
+</div>
 
 ---
 
-## Currently Exploring
+## What I'm Exploring
 
-- Embedded systems and IoT
-- FPGA design and digital systems
-- Digital signal processing
-- Audio and acoustic systems
-- Embedded networking
-- PCB and mixed-signal hardware design
-- Communication systems
-- Software-hardware integration
+```text
+Embedded Systems       ████████████████████
+FPGA & Digital Design ██████████████████░░
+DSP & Signal Processing ██████████████████░░
+Audio & Acoustics     █████████████████░░░
+PCB & Hardware Design ██████████████████░░
+Embedded Networking   ████████████████░░░░
+Software-Hardware     ██████████████████░░
+```
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithya-s-119&show_icons=true&theme=github_dark&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-s-119&layout=compact&theme=github_dark&hide_border=true" height="170">
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adithya-s-119&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-s-119&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=adithya-s-119&theme=github-dark-blue&hide_border=true" alt="GitHub streak">
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adithya-s-119&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph">
+
+</div>
 
 ---
 
 ## Connect
 
-<p align="left">
-  <a href="https://github.com/adithya-s-119">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+<div align="center">
 
----
+<a href="https://github.com/adithya-s-119">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-> **Build. Experiment. Understand. Improve.**
+</div>
+
+<br>
+
+<div align="center">
+
+### ⚡ Build · Experiment · Understand · Improve
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=100&section=footer" alt="Footer">
+
+</div>
