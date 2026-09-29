@@ -1,87 +1,119 @@
-<div align="center">
+<div align="center>
 
 # Hi, I'm Adithya S 👋
 
 ### Electronics & Communication Engineer · Embedded Systems · Hardware · Software
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+at+the+intersection+of+hardware+%26+software;Embedded+Systems+%7C+FPGA+%7C+DSP+%7C+Audio;Designing%2C+building%2C+testing%2C+improving." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Embedded+Systems+%7C+FPGA+%7C+DSP+%7C+Audio;Hardware+%2B+Software+%2B+Signal+Processing;Designing%2C+building%2C+testing%2C+improving." alt="Typing animation">
 
-<br>
+<br><br>
 
-<a href="https://github.com/adithya-s-119">
-  <img src="https://komarev.com/ghpvc/?username=adithya-s-119&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views">
-</a>
+<a href="https://github.com/adithya-s-119"><img src="https://komarev.com/ghpvc/?username=adithya-s-119&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" alt="Profile views"></a>
+
+<a href="https://github.com/adithya-s-119?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm an **Electronics & Communication Engineer** who enjoys building things across the boundary between **hardware and software**.
+I'm an **Electronics & Communication Engineer** interested in building systems where **electronics, embedded software and signal processing** come together.
 
-My work and interests range from embedded systems and FPGA design to digital signal processing, audio, acoustics, networking, PCB design and application software.
+I enjoy moving between different layers of a system — from **circuits, sensors and digital interfaces** to **firmware, FPGA logic, DSP and application software**.
 
-> **I like understanding systems from the signal level all the way to the user interface.**
+```text
+Hardware          →  Embedded Systems  →  Firmware
+Analog / Digital  →  FPGA / DSP       →  Software
+Signals / Data    →  Processing       →  User Interface
+```
+
+### What I enjoy building
+
+- Embedded and connected devices
+- FPGA and digital hardware systems
+- Audio and acoustic systems
+- DSP and signal-processing applications
+- PCB and mixed-signal hardware
+- IoT and home-automation systems
+- Tools that solve practical problems
 
 ---
 
-## Featured Projects
+## ⚡ Engineering Focus
+
+<div align="center">
+
+| DOMAIN | FOCUS |
+|:---:|:---|
+| 🔌 Embedded | ESP32 · Arduino · Teensy · AVR · I²C · SPI · I²S · UART |
+| 🧠 FPGA | Zynq · Verilog · VHDL · Digital Logic · High-speed Interfaces |
+| 🎧 Audio | DSP · Acoustics · Audio Electronics · Beamforming |
+| 📡 Signals | FFT · DFT · Digital Filters · Communication Systems |
+| 🔧 Hardware | PCB Design · Analog · Digital · Power · Mixed-Signal |
+| 💻 Software | C · C++ · Python · MATLAB · Kotlin · Java |
+
+</div>
+
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏠 HomeCore
+## 🏠 HomeCore
 
-An Android home-control application for managing **ESP-based relay modules and connected devices** over a local network.
+**Android × ESP home control**
 
-**What it does**
-- ESP module & device management
-- Relay configuration and control
-- HTTP communication
-- Relay state synchronisation
+A lightweight Android application for managing **ESP-based relay modules and connected devices** over a local network.
+
+**Highlights**
+
+- ESP module management
+- Device & relay configuration
+- HTTP-based control
+- Relay-state synchronisation
 - Local JSON persistence
 - Grid-based device interface
-- Light & dark appearance support
 
-**Built with**
+**Stack**
 
 `Kotlin` `Android` `HTTP` `JSON` `ESP32`
 
 <br>
 
-<a href="https://github.com/adithya-s-119/HomeCore">
-  <img src="https://img.shields.io/badge/View_Repository-21262D?style=for-the-badge&logo=github&logoColor=white" alt="View HomeCore">
-</a>
+<a href="https://github.com/adithya-s-119/HomeCore"><img src="https://img.shields.io/badge/VIEW_PROJECT-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="HomeCore"></a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📄 PDF Color Inverter
+## 📄 PDF Color Inverter
 
-A Windows desktop application for converting PDFs between light and dark colour schemes, with **batch processing and English/Malayalam OCR**.
+**Windows × PDF × OCR**
 
-**What it does**
+A desktop utility for converting PDFs between light and dark colour schemes, with **batch processing and English/Malayalam OCR**.
+
+**Highlights**
+
 - PDF colour inversion
 - Batch processing
 - Drag & drop
 - Live preview
 - Adjustable rendering quality
 - English + Malayalam OCR
-- Searchable/selectable OCR text
-- Standalone Windows executable
+- Searchable OCR text
+- Standalone Windows build
 
-**Built with**
+**Stack**
 
-`Python` `CustomTkinter` `Tesseract OCR` `PyInstaller`
+`Python` `CustomTkinter` `Tesseract` `PyInstaller`
 
 <br>
 
-<a href="https://github.com/adithya-s-119/PDF-Color-Inverter">
-  <img src="https://img.shields.io/badge/View_Repository-21262D?style=for-the-badge&logo=github&logoColor=white" alt="View PDF Color Inverter">
-</a>
+<a href="https://github.com/adithya-s-119/PDF-Color-Inverter"><img src="https://img.shields.io/badge/VIEW_PROJECT-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="PDF Color Inverter"></a>
 
 </td>
 </tr>
@@ -89,47 +121,68 @@ A Windows desktop application for converting PDFs between light and dark colour 
 
 ---
 
-## Tech Stack
+# 🛠️ Technology Stack
 
 <div align="center">
 
-### Embedded & Hardware
+### Languages
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,c,python&perline=5" alt="Embedded technologies">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,kotlin,java&perline=6" alt="Languages">
+
+<br><br>
+
+### Embedded · FPGA · Development
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,vscode,git,github&perline=5" alt="Development technologies">
 
 <br><br>
 
-### FPGA · DSP · Electronics
-
-<img src="https://skillicons.dev/icons?i=matlab,vscode,git,github&perline=4" alt="Development tools">
-
-<br><br>
+**Hardware & Interfaces**
 
 `ESP32` · `FPGA` · `Zynq` · `Verilog` · `VHDL` · `I²C` · `SPI` · `I²S` · `UART` · `Ethernet`
 
-<br>
+**Engineering**
 
 `DSP` · `FFT` · `DFT` · `Digital Filters` · `Beamforming` · `Acoustics` · `PCB Design` · `Audio Electronics`
+
+**Tools**
+
+`Vivado` · `Vitis` · `KiCad` · `MATLAB` · `Git` · `GitHub`
 
 </div>
 
 ---
 
-## What I'm Exploring
+# 🔬 Currently Exploring
 
-```text
-Embedded Systems         ████████████████████
-FPGA & Digital Design   ██████████████████░░
-DSP & Signal Processing ██████████████████░░
-Audio & Acoustics       █████████████████░░░
-PCB & Hardware Design   ██████████████████░░
-Embedded Networking     ████████████████░░░░
-Software-Hardware       ██████████████████░░
-```
+<div align="center">
+
+<img src="https://img.shields.io/badge/Embedded_Systems-0D1117?style=for-the-badge&logo=espressif&logoColor=E7352C">
+<img src="https://img.shields.io/badge/FPGA_Design-0D1117?style=for-the-badge&logo=xilinx&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Digital_Signal_Processing-0D1117?style=for-the-badge&logo=wolframmathematica&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Audio_%26_Acoustics-0D1117?style=for-the-badge&logo=audacity&logoColor=ffffff">
+
+<br>
+
+<img src="https://img.shields.io/badge/PCB_%26_Hardware-0D1117?style=for-the-badge&logo=kicad&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Embedded_Networking-0D1117?style=for-the-badge&logo=ethernet&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Hardware_%2B_Software-0D1117?style=for-the-badge&logo=github&logoColor=ffffff">
+
+</div>
 
 ---
 
-## GitHub Activity
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/adithya-s-119/adithya-s-119/output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%">
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -137,21 +190,17 @@ Software-Hardware       ██████████████████�
 
 <br><br>
 
-<a href="https://github.com/adithya-s-119?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Repositories-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories">
-</a>
+<a href="https://github.com/adithya-s-119?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"></a>
 
 </div>
 
 ---
 
-## Connect
+# 📫 Connect
 
 <div align="center">
 
-<a href="https://github.com/adithya-s-119">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
+<a href="https://github.com/adithya-s-119"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 </div>
 
@@ -159,8 +208,8 @@ Software-Hardware       ██████████████████�
 
 <div align="center">
 
-### ⚡ Build · Experiment · Understand · Improve
+> ### **Build. Experiment. Understand. Improve.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=100&section=footer" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1F6FEB,50:161B22,100:0D1117" width="100%" alt="Footer">
 
 </div>
