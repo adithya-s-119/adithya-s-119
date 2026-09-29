@@ -121,33 +121,55 @@ A desktop utility for converting PDFs between light and dark colour schemes, wit
 
 ---
 
-# 🛠️ Technology Stack
+# 🛠️ My Tools & Technologies
 
 <div align="center">
 
-### Languages
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python">
+<br><b>Python</b>
+</td>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55" alt="C++">
+<br><b>C++</b>
+</td>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java">
+<br><b>Java</b>
+</td>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub">
+<br><b>GitHub</b>
+</td>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="55" height="55" alt="Raspberry Pi">
+<br><b>Raspberry Pi</b>
+</td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,kotlin,java&perline=6" alt="Languages">
+<br>
+
+<img src="https://skillicons.dev/icons?i=c,kotlin,matlab,arduino,vscode,git,android,linux&perline=8" alt="C, Kotlin, MATLAB, Arduino, VS Code, Git, Android and Linux">
 
 <br><br>
 
-### Embedded · FPGA · Development
+### Embedded · FPGA · DSP · Electronics
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,vscode,git,github&perline=5" alt="Development technologies">
+<img src="https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=E7352C">
+<img src="https://img.shields.io/badge/FPGA-0D1117?style=for-the-badge&logo=xilinx&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Verilog-0D1117?style=for-the-badge&logo=verilog&logoColor=ffffff">
+<img src="https://img.shields.io/badge/VHDL-0D1117?style=for-the-badge&logo=vhdl&logoColor=ffffff">
+<img src="https://img.shields.io/badge/I²S-0D1117?style=for-the-badge&logoColor=ffffff">
+<img src="https://img.shields.io/badge/DSP-0D1117?style=for-the-badge&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Beamforming-0D1117?style=for-the-badge&logoColor=ffffff">
+<img src="https://img.shields.io/badge/PCB_Design-0D1117?style=for-the-badge&logo=kicad&logoColor=ffffff">
 
 <br><br>
 
-**Hardware & Interfaces**
-
-`ESP32` · `FPGA` · `Zynq` · `Verilog` · `VHDL` · `I²C` · `SPI` · `I²S` · `UART` · `Ethernet`
-
-**Engineering**
-
-`DSP` · `FFT` · `DFT` · `Digital Filters` · `Beamforming` · `Acoustics` · `PCB Design` · `Audio Electronics`
-
-**Tools**
-
-`Vivado` · `Vitis` · `KiCad` · `MATLAB` · `Git` · `GitHub`
+<sub>The animated icons above use the TechStack Generator; the remaining icons use Skill Icons for broader hardware coverage.</sub>
 
 </div>
 
