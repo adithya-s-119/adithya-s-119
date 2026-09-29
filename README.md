@@ -133,13 +133,13 @@ Software-Hardware       ██████████████████�
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adithya-s-119&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-s-119&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
+<img src="https://streak-stats.demolab.com?user=adithya-s-119&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=adithya-s-119&theme=github-dark-blue&hide_border=true" alt="GitHub streak">
+<a href="https://github.com/adithya-s-119?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories">
+</a>
 
 </div>
 
