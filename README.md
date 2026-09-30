@@ -168,7 +168,7 @@ A desktop utility for converting PDFs between light and dark colour schemes, wit
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=c,kotlin,matlab,arduino,vscode,git,android,linux&perline=8" alt="C, Kotlin, MATLAB, Arduino, VS Code, Git, Android and Linux">
+<img src="https://skillicons.dev/icons?i=c,kotlin,matlab,arduino,vscode,git,linux&perline=7" alt="C, Kotlin, MATLAB, Arduino, VS Code, Git and Linux">
 
 <br><br>
 
