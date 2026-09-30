@@ -183,9 +183,6 @@ A desktop utility for converting PDFs between light and dark colour schemes, wit
 <img src="https://img.shields.io/badge/Beamforming-0D1117?style=for-the-badge&logoColor=ffffff">
 <img src="https://img.shields.io/badge/PCB_Design-0D1117?style=for-the-badge&logo=kicad&logoColor=ffffff">
 
-<br><br>
-
-<sub>The animated icons above use the TechStack Generator; the remaining icons use Skill Icons for broader hardware coverage.</sub>
 
 </div>
 
