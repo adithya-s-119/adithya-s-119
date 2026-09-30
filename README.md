@@ -147,6 +147,22 @@ A desktop utility for converting PDFs between light and dark colour schemes, wit
 <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="55" height="55" alt="Raspberry Pi">
 <br><b>Raspberry Pi</b>
 </td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/KiCad-Dark.svg" width="55" height="55" alt="KiCad">
+<br><b>KiCad</b>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SolidWorks-Dark.svg" width="55" height="55" alt="SolidWorks">
+<br><b>SolidWorks</b>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" width="55" height="55" alt="Android Studio">
+<br><b>Android Studio</b>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/EasyEDA-Dark.svg" width="55" height="55" alt="EasyEDA">
+<br><b>EasyEDA</b>
+</td>
 </tr>
 </table>
 
