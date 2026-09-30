@@ -148,19 +148,19 @@ A desktop utility for converting PDFs between light and dark colour schemes, wit
 <br><b>Raspberry Pi</b>
 </td>
 <td align="center" width="120">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/KiCad-Dark.svg" width="55" height="55" alt="KiCad">
+<img src="https://cdn.simpleicons.org/kicad" width="55" height="55" alt="KiCad">
 <br><b>KiCad</b>
 </td>
 <td align="center" width="120">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SolidWorks-Dark.svg" width="55" height="55" alt="SolidWorks">
+<img src="https://cdn.simpleicons.org/dassaultsystemes" width="55" height="55" alt="SolidWorks">
 <br><b>SolidWorks</b>
 </td>
 <td align="center" width="120">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" width="55" height="55" alt="Android Studio">
+<img src="https://skillicons.dev/icons?i=androidstudio" width="55" height="55" alt="Android Studio">
 <br><b>Android Studio</b>
 </td>
 <td align="center" width="120">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/EasyEDA-Dark.svg" width="55" height="55" alt="EasyEDA">
+<img src="https://cdn.simpleicons.org/easyeda" width="55" height="55" alt="EasyEDA">
 <br><b>EasyEDA</b>
 </td>
 </tr>
