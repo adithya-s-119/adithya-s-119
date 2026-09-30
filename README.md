@@ -172,18 +172,6 @@ A desktop utility for converting PDFs between light and dark colour schemes, wit
 
 <br><br>
 
-### Embedded · FPGA · DSP · Electronics
-
-<img src="https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=E7352C">
-<img src="https://img.shields.io/badge/FPGA-0D1117?style=for-the-badge&logo=xilinx&logoColor=ffffff">
-<img src="https://img.shields.io/badge/Verilog-0D1117?style=for-the-badge&logo=verilog&logoColor=ffffff">
-<img src="https://img.shields.io/badge/VHDL-0D1117?style=for-the-badge&logo=vhdl&logoColor=ffffff">
-<img src="https://img.shields.io/badge/I²S-0D1117?style=for-the-badge&logoColor=ffffff">
-<img src="https://img.shields.io/badge/DSP-0D1117?style=for-the-badge&logoColor=ffffff">
-<img src="https://img.shields.io/badge/Beamforming-0D1117?style=for-the-badge&logoColor=ffffff">
-<img src="https://img.shields.io/badge/PCB_Design-0D1117?style=for-the-badge&logo=kicad&logoColor=ffffff">
-
-
 </div>
 
 ---
