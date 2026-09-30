@@ -224,6 +224,7 @@ A desktop utility for converting PDFs between light and dark colour schemes, wit
 <div align="center">
 
 <a href="https://github.com/adithya-s-119"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/adithya-s-00471924b"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
 
