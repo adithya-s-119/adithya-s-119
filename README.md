@@ -2,7 +2,7 @@
 
 # Hi, I'm Adithya S 👋
 
-### Electronics & Communication Engineer · Embedded Systems · Hardware · Software
+### Embedded Systems · Hardware · Software
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Embedded+Systems+%7C+FPGA+%7C+DSP+%7C+Audio;Hardware+%2B+Software+%2B+Signal+Processing;Designing%2C+building%2C+testing%2C+improving." alt="Typing animation">
 
