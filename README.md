@@ -1,239 +1,63 @@
 <div align="center">
 
-# Hi, I'm Adithya S 👋
+# Adithya S
 
-### Embedded Systems · Hardware · Software
+Electronics & communication engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Embedded+Systems+%7C+FPGA+%7C+DSP+%7C+Audio;Hardware+%2B+Software+%2B+Signal+Processing;Designing%2C+building%2C+testing%2C+improving." alt="Typing animation">
+I build small projects across hardware and software, mostly to understand how the pieces fit together.
 
-<br><br>
-
-<a href="https://github.com/adithya-s-119"><img src="https://komarev.com/ghpvc/?username=adithya-s-119&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" alt="Profile views"></a>
-
-<a href="https://github.com/adithya-s-119?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
+[GitHub](https://github.com/adithya-s-119) · [LinkedIn](https://www.linkedin.com/in/adithya-s-00471924b) · [Website](https://solo.to/adithya_s)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm an **Electronics & Communication Engineer** interested in building systems where **electronics, embedded software and signal processing** come together.
+I'm an electronics and communication engineer. I like the overlap between the physical and digital sides of a device — circuits and sensors on one side, firmware and software on the other.
 
-I enjoy moving between different layers of a system — from **circuits, sensors and digital interfaces** to **firmware, FPGA logic, DSP and application software**.
+Most of what I know comes from personal projects and coursework, and I'm still learning as I go. This profile is where I keep track of the things I've built along the way.
 
-```text
-Hardware          →  Embedded Systems  →  Firmware
-Analog / Digital  →  FPGA / DSP       →  Software
-Signals / Data    →  Processing       →  User Interface
-```
+## Selected projects
 
-### What I enjoy building
+### HomeCore
 
-- Embedded and connected devices
-- FPGA and digital hardware systems
-- Audio and acoustic systems
-- DSP and signal-processing applications
-- PCB and mixed-signal hardware
-- IoT and home-automation systems
-- Tools that solve practical problems
+An Android app for switching ESP-based relay modules over a local network.
 
----
+`Kotlin` · [Repository](https://github.com/adithya-s-119/HomeCore)
 
-## ⚡ Engineering Focus
+### PDF Color Inverter
 
-<div align="center">
+A Windows utility for converting PDFs to a dark colour scheme, with batch processing and English/Malayalam OCR.
 
-| DOMAIN | FOCUS |
-|:---:|:---|
-| 🔌 Embedded | ESP32 · Arduino · Teensy · AVR · I²C · SPI · I²S · UART |
-| 🧠 FPGA | Zynq · Verilog · VHDL · Digital Logic · High-speed Interfaces |
-| 🎧 Audio | DSP · Acoustics · Audio Electronics · Beamforming |
-| 📡 Signals | FFT · DFT · Digital Filters · Communication Systems |
-| 🔧 Hardware | PCB Design · Analog · Digital · Power · Mixed-Signal |
-| 💻 Software | C · C++ · Python · MATLAB · Kotlin · Java |
+`Python` · [Repository](https://github.com/adithya-s-119/PDF-Color-Inverter)
 
-</div>
+### Spicetify Manager
 
----
+A small Windows GUI for installing, backing up, and updating spicetify.
 
-# 🚀 Featured Projects
+`C#` · [Repository](https://github.com/adithya-s-119/spicetify-manager)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Arduino Geiger Counter
 
-## 🏠 HomeCore
+An Arduino Uno Geiger counter that counts pulses from a Geiger–Müller tube and displays readings on an OLED.
 
-**Android × ESP home control**
+`C` · [Repository](https://github.com/adithya-s-119/Arduino-Based-Geiger-Counter)
 
-A lightweight Android application for managing **ESP-based relay modules and connected devices** over a local network.
+## Tools I've used
 
-**Highlights**
+**Languages:** C, C++, Python, Kotlin, Java, MATLAB, Verilog
 
-- ESP module management
-- Device & relay configuration
-- HTTP-based control
-- Relay-state synchronisation
-- Local JSON persistence
-- Grid-based device interface
+**Hardware & tools:** ESP32, Arduino, KiCad, EasyEDA, Android Studio, VS Code
 
-**Stack**
+I'm currently learning more about FPGA design, DSP, and analog/mixed-signal PCB design.
 
-`Kotlin` `Android` `HTTP` `JSON` `ESP32`
+## Elsewhere
 
-<br>
-
-<a href="https://github.com/adithya-s-119/HomeCore"><img src="https://img.shields.io/badge/VIEW_PROJECT-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="HomeCore"></a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📄 PDF Color Inverter
-
-**Windows × PDF × OCR**
-
-A desktop utility for converting PDFs between light and dark colour schemes, with **batch processing and English/Malayalam OCR**.
-
-**Highlights**
-
-- PDF colour inversion
-- Batch processing
-- Drag & drop
-- Live preview
-- Adjustable rendering quality
-- English + Malayalam OCR
-- Searchable OCR text
-- Standalone Windows build
-
-**Stack**
-
-`Python` `CustomTkinter` `Tesseract` `PyInstaller`
-
-<br>
-
-<a href="https://github.com/adithya-s-119/PDF-Color-Inverter"><img src="https://img.shields.io/badge/VIEW_PROJECT-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="PDF Color Inverter"></a>
-
-</td>
-</tr>
-</table>
+- [GitHub](https://github.com/adithya-s-119)
+- [LinkedIn](https://www.linkedin.com/in/adithya-s-00471924b)
+- [Website](https://solo.to/adithya_s)
 
 ---
 
-# 🛠️ My Tools & Technologies
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python">
-<br><b>Python</b>
-</td>
-<td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55" alt="C++">
-<br><b>C++</b>
-</td>
-<td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java">
-<br><b>Java</b>
-</td>
-<td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub">
-<br><b>GitHub</b>
-</td>
-<td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="55" height="55" alt="Raspberry Pi">
-<br><b>Raspberry Pi</b>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.simpleicons.org/kicad" width="55" height="55" alt="KiCad">
-<br><b>KiCad</b>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.simpleicons.org/dassaultsystemes" width="55" height="55" alt="SolidWorks">
-<br><b>SolidWorks</b>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=androidstudio" width="55" height="55" alt="Android Studio">
-<br><b>Android Studio</b>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.simpleicons.org/easyeda" width="55" height="55" alt="EasyEDA">
-<br><b>EasyEDA</b>
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=c,kotlin,matlab,arduino,vscode,git,linux&perline=7" alt="C, Kotlin, MATLAB, Arduino, VS Code, Git and Linux">
-
-<br><br>
-
-</div>
-
----
-
-# 🔬 Currently Exploring
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Embedded_Systems-0D1117?style=for-the-badge&logo=espressif&logoColor=E7352C">
-<img src="https://img.shields.io/badge/FPGA_Design-0D1117?style=for-the-badge&logo=xilinx&logoColor=ffffff">
-<img src="https://img.shields.io/badge/Digital_Signal_Processing-0D1117?style=for-the-badge&logo=wolframmathematica&logoColor=ffffff">
-<img src="https://img.shields.io/badge/Audio_%26_Acoustics-0D1117?style=for-the-badge&logo=audacity&logoColor=ffffff">
-
-<br>
-
-<img src="https://img.shields.io/badge/PCB_%26_Hardware-0D1117?style=for-the-badge&logo=kicad&logoColor=ffffff">
-<img src="https://img.shields.io/badge/Embedded_Networking-0D1117?style=for-the-badge&logo=ethernet&logoColor=ffffff">
-<img src="https://img.shields.io/badge/Hardware_%2B_Software-0D1117?style=for-the-badge&logo=github&logoColor=ffffff">
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/adithya-s-119/adithya-s-119/output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%">
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=adithya-s-119&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak">
-
-<br><br>
-
-<a href="https://github.com/adithya-s-119?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"></a>
-
-</div>
-
----
-
-# 📫 Connect
-
-<div align="center">
-
-<a href="https://github.com/adithya-s-119"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/adithya-s-00471924b"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-> ### **Build. Experiment. Understand. Improve.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1F6FEB,50:161B22,100:0D1117" width="100%" alt="Footer">
-
-</div>
+*Feedback and corrections are always welcome.*
