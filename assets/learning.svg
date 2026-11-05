@@ -12,12 +12,12 @@
       }
 
       .reveal {
-        animation: reveal 0.8s steps(28, end) both;
+        animation: reveal 0.65s steps(28, end) both;
       }
 
-      .l1 { animation-delay: 0.35s; }
-      .l2 { animation-delay: 1.35s; }
-      .l3 { animation-delay: 2.35s; }
+      .l1 { animation-delay: 0.15s; }
+      .l2 { animation-delay: 0.95s; }
+      .l3 { animation-delay: 1.75s; }
 
       .cursor {
         animation: blink 1.1s steps(1, end) infinite;
