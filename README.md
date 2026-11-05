@@ -1,63 +1,102 @@
 <div align="center">
 
-# Adithya S
-
-Electronics & communication engineer
-
-I build small projects across hardware and software, mostly to understand how the pieces fit together.
-
-[GitHub](https://github.com/adithya-s-119) · [LinkedIn](https://www.linkedin.com/in/adithya-s-00471924b) · [Website](https://solo.to/adithya_s)
+<img src="assets/hero.svg" width="100%" alt="Adithya S — electronics and communication engineer. Building small hardware and software projects, still learning.">
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="">
 
-## About
+## <img src="assets/pulse.svg" width="11" height="11" alt=""> `[ 01 ]` ABOUT
+
+`$ whoami`
 
 I'm an electronics and communication engineer. I like the overlap between the physical and digital sides of a device — circuits and sensors on one side, firmware and software on the other.
 
 Most of what I know comes from personal projects and coursework, and I'm still learning as I go. This profile is where I keep track of the things I've built along the way.
 
-## Selected projects
+<img src="assets/divider.svg" width="100%" alt="">
 
-### HomeCore
+## <img src="assets/pulse.svg" width="11" height="11" alt=""> `[ 02 ]` PROJECTS
+
+`$ ls ~/projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <code>MOD.01</code> HomeCore
 
 An Android app for switching ESP-based relay modules over a local network.
 
-`Kotlin` · [Repository](https://github.com/adithya-s-119/HomeCore)
+<code>kotlin</code> <code>esp32</code>
 
-### PDF Color Inverter
+[<code>open_repo ↗</code>](https://github.com/adithya-s-119/HomeCore)
+
+</td>
+<td width="50%" valign="top">
+
+### <code>MOD.02</code> PDF Color Inverter
 
 A Windows utility for converting PDFs to a dark colour scheme, with batch processing and English/Malayalam OCR.
 
-`Python` · [Repository](https://github.com/adithya-s-119/PDF-Color-Inverter)
+<code>python</code> <code>ocr</code>
 
-### Spicetify Manager
+[<code>open_repo ↗</code>](https://github.com/adithya-s-119/PDF-Color-Inverter)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <code>MOD.03</code> Spicetify Manager
 
 A small Windows GUI for installing, backing up, and updating spicetify.
 
-`C#` · [Repository](https://github.com/adithya-s-119/spicetify-manager)
+<code>c#</code> <code>winforms</code>
 
-### Arduino Geiger Counter
+[<code>open_repo ↗</code>](https://github.com/adithya-s-119/spicetify-manager)
+
+</td>
+<td width="50%" valign="top">
+
+### <code>MOD.04</code> Arduino Geiger Counter
 
 An Arduino Uno Geiger counter that counts pulses from a Geiger–Müller tube and displays readings on an OLED.
 
-`C` · [Repository](https://github.com/adithya-s-119/Arduino-Based-Geiger-Counter)
+<code>c</code> <code>arduino</code>
 
-## Tools I've used
+[<code>open_repo ↗</code>](https://github.com/adithya-s-119/Arduino-Based-Geiger-Counter)
 
-**Languages:** C, C++, Python, Kotlin, Java, MATLAB, Verilog
+</td>
+</tr>
+</table>
 
-**Hardware & tools:** ESP32, Arduino, KiCad, EasyEDA, Android Studio, VS Code
+<img src="assets/divider.svg" width="100%" alt="">
 
-I'm currently learning more about FPGA design, DSP, and analog/mixed-signal PCB design.
+## <img src="assets/pulse.svg" width="11" height="11" alt=""> `[ 03 ]` TOOLCHAIN
 
-## Elsewhere
+`$ toolchain --list`
 
-- [GitHub](https://github.com/adithya-s-119)
-- [LinkedIn](https://www.linkedin.com/in/adithya-s-00471924b)
-- [Website](https://solo.to/adithya_s)
+```text
+┌─[ TOOLCHAIN ]──────────────────────────────────────────────────┐
+│ langs     c / c++ / python / kotlin / java / matlab / verilog  │
+│ hardware  esp32 / arduino / kicad / easyeda                    │
+│ software  android studio / vs code / git / linux               │
+└────────────────────────────────────────────────────────────────┘
+```
 
----
+<img src="assets/learning.svg" width="100%" alt="Currently learning: FPGA design, DSP, and analog / mixed-signal PCB design.">
 
-*Feedback and corrections are always welcome.*
+<img src="assets/divider.svg" width="100%" alt="">
+
+## <img src="assets/pulse.svg" width="11" height="11" alt=""> `[ 04 ]` UPLINK
+
+<div align="center">
+
+[`github`](https://github.com/adithya-s-119) &nbsp;&nbsp; [`linkedin`](https://www.linkedin.com/in/adithya-s-00471924b) &nbsp;&nbsp; [`website`](https://solo.to/adithya_s)
+
+<br><br>
+
+`> feedback and corrections always welcome.` <img src="assets/cursor.svg" width="7" height="14" alt="">
+
+</div>
